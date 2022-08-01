@@ -1,7 +1,7 @@
 # GROCERY PLANNING APP
 
 - [Liquidjs](https://liquidjs.com) (View Engine)   Similar to Django Template Language
- <img width="530" alt="image" src="https://user-images.githubusercontent.com/43242236/182189017-ee1310ea-832c-4d96-b953-af83f88f2bff.png">
+<img width="530" alt="image" src="https://user-images.githubusercontent.com/43242236/182189223-ae38b946-9563-4364-9cff-ca7ef6e3a993.png">
 
 - [ExpressJs](https://expressjs.com/)
 - [MongoDB Compass](https://www.mongodb.com/products/compass)
